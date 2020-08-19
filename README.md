@@ -4,5 +4,7 @@ This paper attempts to investigate the year-to-year variation in credit spread b
 
 
 FILES: 
-1. LSTM (OLS, feature selection)
-2. Regression
+1. Data framing
+2. LSTM (OLS, feature selection)
+3. Regression
+4. Important/select variables
